@@ -3,9 +3,15 @@ VERSION:2.0
 PRODID:-//WebUntis Sync Skript//
 X-WR-CALNAME:Schule - Quiz
 BEGIN:VEVENT
-SUMMARY:Platzhalter Quiz
+SUMMARY:Platzhalter Quiz 1
 DTSTART:20000101T080000
 DTEND:20000101T090000
-UID:platzhalter-Quiz@iuntis-sync
+UID:platzhalter-Quiz-0@iuntis-sync
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Platzhalter Quiz 2
+DTSTART:20000102T080000
+DTEND:20000102T090000
+UID:platzhalter-Quiz-1@iuntis-sync
 END:VEVENT
 END:VCALENDAR
